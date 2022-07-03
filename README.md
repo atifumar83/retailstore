@@ -12,7 +12,7 @@ Assumption
 1. Customer and product is already exist in mongodb, you can restore the retailstore dump from repository main folder
 2. restore dump folder command,
 
-     **mongorestore --host 10.201.201.104:27017  -u vidaptor -p Cs456321 --db retailstore  .\retailstore\**
+     **mongorestore --host 0.0.0.0:27017  --db retailstore  .\retailstore\**
      
      
 Compile and Build:
