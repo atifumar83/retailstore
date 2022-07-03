@@ -17,7 +17,7 @@ Assumption
 
 CLASS MODEL
 
-![image](https://user-images.githubusercontent.com/38679516/177044031-3cde69ad-71d2-4e59-9a5b-7922b4c130ad.png)
+![image](https://user-images.githubusercontent.com/38679516/177044123-97bedd54-af5f-438d-bd93-9690510cab8d.png)
 
 
 Compile and Build:
