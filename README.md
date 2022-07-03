@@ -1,4 +1,4 @@
-# retailstore
+# Retail Store Discount
 
 
 Pre-requisite
