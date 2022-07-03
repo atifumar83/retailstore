@@ -14,7 +14,12 @@ Assumption
 
      **mongorestore --host 0.0.0.0:27017  --db retailstore  .\retailstore\**
      
-     
+
+CLASS MODEL
+
+![image](https://user-images.githubusercontent.com/38679516/177044031-3cde69ad-71d2-4e59-9a5b-7922b4c130ad.png)
+
+
 Compile and Build:
 
 1. open main retailstore directory
